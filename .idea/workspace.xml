@@ -26,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/Sample_parent/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-536">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -126,7 +126,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="952" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
@@ -296,15 +296,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561447993445</updated>
-      <workItem from="1561447999438" duration="7484000" />
+      <workItem from="1561447999438" duration="8059000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7484000" />
+    <option name="totallyTimeSpent" value="8059000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -405,7 +405,7 @@
     <entry file="file://$PROJECT_DIR$/Sample_parent/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-536">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
