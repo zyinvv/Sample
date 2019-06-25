@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sample.iml" filepath="$PROJECT_DIR$/Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample_common/Sample_common.iml" filepath="$PROJECT_DIR$/Sample_common/Sample_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample_manager/Sample_manager.iml" filepath="$PROJECT_DIR$/Sample_manager/Sample_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample_parent/Sample_parent.iml" filepath="$PROJECT_DIR$/Sample_parent/Sample_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample_redis/Sample_redis.iml" filepath="$PROJECT_DIR$/Sample_redis/Sample_redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample_rest/Sample_rest.iml" filepath="$PROJECT_DIR$/Sample_rest/Sample_rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample_search/Sample_search.iml" filepath="$PROJECT_DIR$/Sample_search/Sample_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample_sso/Sample_sso.iml" filepath="$PROJECT_DIR$/Sample_sso/Sample_sso.iml" />
+    </modules>
+  </component>
+</project>
