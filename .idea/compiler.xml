@@ -7,6 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Sample_manager" />
+        <module name="Sample_redis" />
+        <module name="Sample_rest" />
+        <module name="Sample_search" />
+        <module name="Sample_sso" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -14,6 +18,10 @@
       <module name="Sample_common" target="1.8" />
       <module name="Sample_manager" target="1.8" />
       <module name="Sample_parent" target="1.8" />
+      <module name="Sample_redis" target="1.8" />
+      <module name="Sample_rest" target="1.8" />
+      <module name="Sample_search" target="1.8" />
+      <module name="Sample_sso" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

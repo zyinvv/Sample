@@ -5,5 +5,9 @@
     <file url="file://$PROJECT_DIR$/Sample_manager" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Sample_manager" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Sample_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sample_redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sample_rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sample_search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sample_sso" charset="UTF-8" />
   </component>
 </project>
